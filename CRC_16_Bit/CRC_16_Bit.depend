@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679537647 source:e:\github\crc\crc_16_bit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
